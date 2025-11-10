@@ -4,7 +4,7 @@ You can clone and test this demo using Hardhat.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/defi-dashboard.git
+git clone https://github.com/edTonye/defi-dashboard.git
 cd defi-dashboard
 
 # Install dependencies
